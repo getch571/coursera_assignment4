@@ -1,0 +1,50 @@
+body {
+font-size: 16px;
+color: #000000;
+background-color: aqua;
+
+}
+#header-nav{
+    background-color:#FF0000;
+    border-radius: 0; 
+    border: 0;
+    
+      
+}
+#nav-list a {
+    color:#FFFF00;
+
+}
+    
+.navbar-brand a {
+    padding-top:5px;
+    color:blue;
+    font-size: 26px;
+    position: absolute;
+}
+.navbar-header, button.navbar-toggle {
+    border: 0 ;
+    padding:0;
+}
+#page-heading {
+    color:blueviolet;
+}
+.icon-bar{
+    border: 1px solid #00FF00;
+
+}
+#section-1 h3{
+    color:#FFFF00;
+    
+   
+}
+
+#section-2 h3{
+    color:#FFFF00;
+   
+}
+#section-3 h3{
+    color:#FFFF00;
+   
+}
+
